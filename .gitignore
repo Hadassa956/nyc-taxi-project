@@ -1,0 +1,16 @@
+# Ambientes Virtuais
+.venv/
+venvtx/
+ENV/
+
+# Cache do Python
+__pycache__/
+*.py[c
+od]
+
+# Arquivos do VS Code e Sistema
+.vscode/
+.DS_Store
+
+# Dados sensíveis (senhas e chaves de API)
+.env
